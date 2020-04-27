@@ -1,0 +1,45 @@
+{
+    "themes": [
+        { 
+            "key": "life",
+            "title": "Vida"
+        },
+        { 
+            "key": "past_and_future",
+            "title": "Pasado y Futuro"
+        },
+        { 
+            "key": "pleasures",
+            "title": "Gustos"
+        },
+        { 
+            "key": "work",
+            "title": "Trabajo"
+        }
+    ],
+    "questions": {
+        "life": [
+            "Como gestionas el balance trabajo/vida",
+            "Como sería seria tu vida si no hubieras entrado en tech",
+            "Como manejas los fracasos y la frustacion"
+        ],
+        "past_and_future": [
+            "Te ves haciendo lo que haces ahora, en 10 - 20 años",
+            "Un consejo que le darias a tu yo que estaba empezando en tech",
+            "Como fueron tus primeros pasos en tech",
+            "Como te preparas para afrontar los cambios constantes de la industria"
+        ],
+        "pleasures": [
+            "Cual es el área de tech donde te gustaría desarrollarte",
+            "Empresa favorita/soñada",
+            "Un hobbie que no este relacionado con tech",
+            "Una empresa/idea para la cual no trabajarias"
+        ],
+        "work": [
+            "A que horas prefieres trabajar | te sientes mas productivo/a",
+            "Que es lo que mas te gusta de tu trabajo",
+            "Que cosas te motivan a dar mas de lo esperado de ti",
+            "Una cosa que odies de tu trabajo"
+        ]
+    }
+}
